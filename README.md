@@ -2,6 +2,6 @@
 
 -🧩 I play with HTML,CSS,JS & Python
 
--🌱 currently learning Java & DSA 
+-🌱 currently learning about AI/ML and GenAI
 
 -📫 you can reach me via abhiguit@gmail.com
