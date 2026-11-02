@@ -1,1 +1,15 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Abhijeet&fontColor=7C8CFF&fontSize=56&fontAlignY=50&animation=twinkling" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=1600&color=8B95B8&center=true&vCenter=true&width=420&lines=late+night+webdev+ideas.;my+name+is+a+star.;some+nights%2C+something+lifts+off." /> </p> <p align="center"> <sub><a href="https://x.com/abhiggt">x</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/abhijeeht/">linkedin</a> &nbsp;·&nbsp; <a href="mailto:abhiguit@gmail.com">email</a></sub> </p>
+<p align="center">
+  <img src="signature.svg" width="420" alt="abhijeet" />
+</p>
+
+<p align="center">
+  <img src="signature-hindi.svg" width="420" alt="अभिजीत" />
+</p>
+
+<p align="center">
+  <img src="signature-bengali.svg" width="380" alt="অভিজিৎ" />
+</p>
+
+<p align="center">
+  <sub><a href="https://x.com/abhiggt">x</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/abhijeeht/">linkedin</a> &nbsp;·&nbsp; <a href="mailto:abhiguit@gmail.com">email</a></sub>
+</p>
