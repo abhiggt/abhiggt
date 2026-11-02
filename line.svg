@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="6" viewBox="0 0 640 6" role="img" aria-label="">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0" stop-color="#D6DCFF" stop-opacity="0"/>
+    <stop offset=".3" stop-color="#D6DCFF" stop-opacity=".45"/>
+    <stop offset=".55" stop-color="#FFE2C4" stop-opacity=".45"/>
+    <stop offset=".8" stop-color="#CFF3E6" stop-opacity=".4"/>
+    <stop offset="1" stop-color="#CFF3E6" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="s" x1="0" x2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity=".8"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+  .sh { animation: sh 7s ease-in-out infinite; }
+  @keyframes sh { 0% { transform: translateX(-120px); opacity: 0 } 15% { opacity: 1 } 60% { transform: translateX(640px); opacity: 0 } 100% { transform: translateX(640px); opacity: 0 } }
+</style>
+<rect x="0" y="2.5" width="640" height="1" fill="url(#g)"/>
+<rect class="sh" x="0" y="2.5" width="120" height="1" fill="url(#s)"/>
+</svg>
